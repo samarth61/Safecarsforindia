@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-stylesheet type="text/xsl" href="samarth.xsl" ?>
+
+<car>
+
+<s>
+
+<name> TATA NEXON</name>
+
+<type>MID SIZE </type>
+
+<stars>5</stars>
+
+<safety> BEST </safety>
+</s>
+<s>
+
+<name> MARUTI BREZZA </name>
+
+<type> MID SIZE </type>
+
+<stars> 4</stars>
+
+<safety> GOOD </safety>
+
+</s>
+
+<s>
+
+<name> SKODA KUSHAQ </name>
+
+<type> MID SIZE</type>
+
+<stars> 5 </stars>
+
+<safety> BEST </safety>
+
+</s>
+<s>
+
+<name> VW TAIGUN </name>
+
+<type> MID SIZE </type>
+
+<stars> 4 </stars>
+
+<safety> BEST </safety>
+
+</s>
+
+<s>
+
+<name> JEEP COMPASS </name>
+
+<type> Civil </type>
+
+<stars> 4 </stars>
+
+<safety> GREAT </safety>
+
+</s>
+
+</student>
